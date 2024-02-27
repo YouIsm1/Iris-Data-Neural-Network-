@@ -23,6 +23,7 @@ Overview
 Usage
 
 Clone the repository and run the provided Python script to train the neural network on the Iris dataset. The code can be easily integrated into other projects or used as a starting point for more complex neural network implementations.
+
 Credits
 
 This code is an extension of the original work by NiharG15 (https://gist.github.com/NiharG15/cd8272c9639941cf8f481a7c4478d525#a-simple-neural-network-in-keras--tensorflow-to-classify-the-iris-dataset). Contributions and improvements are welcomed.
